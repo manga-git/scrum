@@ -1,24 +1,97 @@
-Scrum Master serves the Product Owner(PO) by:
-- finding techniques for effective backlog management
-- helping scrum team understand need for clear & concise backlog items
-- understanding product planning in an empirical environment
-- ensuring PO knows how to arrange backlog to maximize value
-- understanding and practicing agility
-- facilitating scrum events as requested or needed
+PSM Notes:
 
-Scrum Master serves the development team by:
-- coaching the development team in self-organization and cross-functionality
-- helping dev team create high value products
-- removing impediments to dev team's progress
-- facilitating scrum events as requested or needed
-- coaching dev teams in orgs where scrum is newly introduced
+> Scrum definition:
+	- a framework for developing & sustaining complex products.
+	- not a process or technique for developing prodcuts
+	- a framework WITHIN which you can use processes or techniques.
 
-Scrum Master serves the Organization by:
-- leading & coaching the org in scrum adoption
-- planning scrum implementation in the org
-- helping employees & stakeholders understand & enact scrum & empirical product development.
-- introduce changes that increases productivity of scrum team
-- working with other scrum masters to increase effectiveness of scrum in the org.
+> Scrum components:
+	- scrum roles
+	- scrum events
+	- scrum artifacts
+
+> Rules of scrum:
+	- govern the interactions and relationships between scrum roles, events and artifcats.
+
+> Scrum Theory:
+	- is based on Empirical process control theory or Empiricism.
+
+> Empiricism: 
+	- knowledge comes from experience AND
+	- decisions should be based on what is known.
+
+- 3 pillars of Empiricism:
+	- Transparency
+	- Inspection
+	- Adaptation
+
+> 4 formal events in Scrum for Inspection and Adaptation:
+	- Sprint Planning
+	- Daily Scrum
+	- Sprint Review
+	- Sprint Retrospective
+
+> Scrum Values:
+	- commitment
+	- courage
+	- focus
+	- openess
+	- respect
+	
+	[Sparkling Ventriloquists Cuddled Cantaloupes From Offensive Robots]
+
+> Scrum Team consists of:
+	- Product Owner
+	- Development Team
+	- Scrum Master
+
+> Scrum teams deliver products
+	- incrementally
+	- iteratively
+
+> Incremental and Iterative delivery 
+	- maximizes opportunities for feedback.
+	- ensures potentially useful version of 'Done' product is always available.
+
+
+> Product Owner:
+	- single person, not a committee
+	- only person responsible for product Backlog
+	- defines features of the product
+	- decides on release date and content
+	- responsible for the profitability of the product (ROI)
+	- prioritizes features according to market value 
+	- adjusts features and priority every iteration, as needed  
+	- accepts or reject work results
+
+> Development team:
+	- is self-organizing
+	- has cross-functional skills
+	- has the only title of 'Developer' and no other titles
+	- individuals within dev team can have specialized skills like testing.
+
+> Dev team size
+	- optimal: 3 to 9
+	- large teams create too much complexity for an empirical process to manage.
+
+> Scrum Master:
+	- represents management to the project
+	- responsible for enacting Scrum values and practices
+	- removes impediments 
+	- ensures the team is fully functional and productive
+	- enables close cooperation across all roles and functions
+	- shields the team from external interferences
+	- serves the product owner find techniques for effective backlog management
+
+
+> To size a story, use a combination of:
+	- risk
+	- complexity
+	- effort
+
+		- to come up with a "gut-feel" number.
+
+
 
 
 
